@@ -21,9 +21,9 @@
 title: Santiago Bayeta's technical blog
 email: sbayeta@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here I write about electronics manufacturing and my
-  experience working in this industry, what I consider key topics and best
-  practices.
+  I write about the electronics manufacturing industry and my
+  experience working in this sector, particularly what I consider
+  the key topics and best practices for managing operations.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://sbayeta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
