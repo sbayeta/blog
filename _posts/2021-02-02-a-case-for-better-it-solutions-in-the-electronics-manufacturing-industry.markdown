@@ -71,7 +71,7 @@ All these errors can be mitigated to some extent by developing robust processes,
 
 The reason why these systems fail to capture the reality of the production floor lies in that they were conceived to work at the business level, executing complex rules and multiple calculations (especially ERP), with a relatively low transaction capacity. This forces the information to be captured using other tools (manual or automated) and then feeding said information in a delayed way (possibly at the end of each day). The ANSI / ISA-95 standard defines the following software “levels” within the computerization of the business:
 
-![ISA 95 Software Levels](/assets/image1.png)
+![ISA 95 Software Levels](/blog/assets/image1.png)
 
 As can be seen in the [figure](https://www.researchgate.net/figure/The-automation-pyramid-according-to-the-ISA-95-model-The-five-levels-0-5-are-defined_fig2_326224890){:target="_blank"}, ERP-type systems are located at level 4. Levels 2, 1 and 0 contain the software that runs on the manufacturing equipment, and level 3 contains a kind of system known as MES (Manufacturing Execution System). The latter (MES), unlike MRP / ERP, are poorly standardized, with each vendor offering different features depending on the specific target industry. It is also common for manufacturing companies to develop their own software to perform these functions in the absence of clearly suitable alternatives. This has the advantage of the flexibility of in-house development, but at an enormous cost of creation and maintenance in an activity (software development) that is usually outside the technical expertise of manufacturing organizations.
 
