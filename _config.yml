@@ -31,8 +31,8 @@ github_username:  sbayeta
 linkedin_username: santiago-bayeta-a0b8991a
 
 # Build settings
-theme: jekyll-theme-minimal
-# theme: minima
+# theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
