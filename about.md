@@ -12,7 +12,7 @@ science to improve operations.
 
 Around 2013 I started working as a freelance consultant, specializing in process automation using
 open source software. I also consult regarding operations management, new factory setups, and
-manufacturing issues in general. I also do contract software development and consulting.
+manufacturing issues in general. In addition to this, I also do contract software development and consulting.
 
 You can see my resumee [here](/assets/resume.pdf)
 
