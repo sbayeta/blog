@@ -2,10 +2,9 @@
 layout: post
 title:  "A case for better IT solutions in the Electronics Manufacturing Industry"
 date:   2021-02-02 14:28:52 -0300
-tag: electronics manufacturing
-tag: enterprise software
-tag: mrp
+tags: electronics-manufacturing enterprise-software mrp
 ---
+{{page.tags}}
 # Introduction
 
 Electronic manufacturing is a complex operation to manage. In this first article I will describe one of the ways in which this complexity is expressed and the role of computer systems in its administration. Finally I will discuss how recent advances in Information Technology have revolutionized the way of developing software, opening the way to new and better tools.
