@@ -7,7 +7,7 @@ description: "The problematic situation of Enterprise Software in the Electronic
 ---
 # Introduction
 
-Electronic manufacturing is a complex operation to manage. In this first article I will describe one of the ways in which this complexity is expressed and the role of computer systems in its administration. Finally I will discuss how recent advances in Information Technology have revolutionized the way of developing software, opening the way to new and better tools.
+Electronics manufacturing is a complex operation to manage. In this first article I will describe one of the ways in which this complexity is expressed and the role of computer systems in its administration. Finally I will discuss how recent advances in Information Technology have revolutionized the way of developing software, opening the way to new and better tools.
 
 # Discrete manufacturing - product complexity
 The manufacture of electronic products is of discrete type, characterized by the production of perfectly distinguishable units.
